@@ -1,7 +1,7 @@
 <config>
   <user value="Helion Eucalyptus"/>
   <team value="229137"/>
-  <passkey value=""/>
+  <passkey value="goeuca"/>
 
   <power value="ALL"/>
   <gpu value="false"/>
